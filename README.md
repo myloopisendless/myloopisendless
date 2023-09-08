@@ -35,7 +35,7 @@
 
 ### Currently Learning :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="LUA" alt="lua" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="LUA" alt="lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg"  title="SCALA" alt="SCALA" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="SCALA" alt="SCALA" width="40" height="40"/>&nbsp;
 </div>
