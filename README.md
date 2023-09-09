@@ -15,29 +15,34 @@
 
 ### 🧑‍💻 About Me :
 
-- 💻 Im currently learning cyber security and computer science.
+I'm Xilo, and I have a passion for all things technology-related. Currently, I'm on an exciting journey to deepen my knowledge in the fields of cyber security and computer science. With a strong foundation in programming, I'm constantly seeking new challenges and opportunities to expand my skill set.
 
-- 🤖 In my free time, I like to code Discord bots..
+In my free time, I find joy in crafting Discord bots that not only serve practical purposes but also contribute to building vibrant online communities. I believe that technology can bridge gaps and bring people together, and creating bots is my way of making that happen.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Xilo-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/programmers)
+I'm a firm believer in the open-source ethos, and I enjoy collaborating with others on innovative projects that push the boundaries of what technology can achieve. Whether it's coding, troubleshooting, or exploring new programming languages and tools, I'm always eager to dive in and learn.
+
+As a tech enthusiast, I'm committed to staying updated with the latest industry trends and advancements. I see every challenge as an opportunity to grow and thrive in the ever-evolving tech landscape.
+
+:mailbox: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Xilo-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/programmers)
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLITE" alt="SQLITE" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### Currently Learning :
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="LUA" alt="lua" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg"  title="SCALA" alt="SCALA" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="SCALA" alt="SCALA" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg"  title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
 ---
