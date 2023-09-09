@@ -23,7 +23,7 @@ I'm a firm believer in the open-source ethos, and I enjoy collaborating with oth
 
 As a tech enthusiast, I'm committed to staying updated with the latest industry trends and advancements. I see every challenge as an opportunity to grow and thrive in the ever-evolving tech landscape.
 
-:mailbox: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Xilo-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/programmers)
+:mailbox: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Xilo-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/xilo)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
