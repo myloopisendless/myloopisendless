@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://discord.gg/programmers">
+  <a href="https://discord.gg/xilo">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
