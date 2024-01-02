@@ -1,14 +1,3 @@
-<h1>
- Hi There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-- 🧑‍💻 I'm currently deepening my knowledge in Cyber Security
-- 💻 Experience Developer
-- 💼 Currently Working On A New Project
-- 🌐 You can reach me in my discord server (https://discord.gg/xilo)
-
-
   ![](https://komarev.com/ghpvc/?username=Xilo6&color=blue)
 
 ### :hammer_and_wrench: Languages and Tools :
