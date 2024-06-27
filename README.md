@@ -1,17 +1,45 @@
-## 💼 Skills
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ai,ps,bash,css,discord,docker,figma,git,github,html,linux,lua,mongodb,powershell,pr,python,replit,scala,sqlite,visualstudio,vscode,twitter,postgresql,svelte" />
-  </a>
+
+```ts
+interface IAboutMe {
+    name: string,
+    age: number,
+    profession: string,
+    contact: string,
+    discord: string
+    stack: string[]
+};
+
+const AboutMe: IAboutMe = {
+    name: "Xilo",
+    age: 15,
+    profession: "Discord Bot Development",
+    contact: "You can contact me in discord @init.py or my discord server.",
+    discord: "https://discord.gg/gvb6DeRPeA",
+    stack: ["Javascript", "Typescript", "Python", "Lua", "MySQL", "PostgreSQL"]
+};
+```
+
+<!-- 
+<p align="center" style="text-align: center; width:100%;">
+  <h6>PROFICIENT</h6>
+  <span><img src="https://img.shields.io/badge/typescript-gray?style=for-the-badge&logo=typescript"/></span>
+  <span><img src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python"/></span>
+    <span><img src="https://img.shields.io/badge/lua-gray?style=for-the-badge&logo=lua"/></span>
 </p>
-
-## 📜 Learning
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,dart,go,rust" />
-  </a>
+<p align="center">
+  <h6>BEST FRIENDS</h6>
+  <span><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
+  <span><img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /></span>
+  <span><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
+  <span><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></span>
 </p>
-
-## 📉 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Xilo6&show_icons=true&count_private=true&theme=dark&hide_border=true" height="175" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xilo6&layout=compact&langs_count=5&theme=dark&hide_border=true" height="175" alt="languages graph"  />
+<p align="center">
+  <h6>FAVORITE PLACE</h6>
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p> -->
