@@ -1,23 +1,4 @@
 
-```ts
-interface IAboutMe {
-    name: string,
-    age: number,
-    profession: string,
-    contact: string,
-    discord: string
-    stack: string[]
-};
-
-const AboutMe: IAboutMe = {
-    name: "Xilo",
-    age: 15,
-    profession: "Discord Bot Development",
-    contact: "You can contact me in discord @init.py or my discord server.",
-    discord: "https://discord.gg/gvb6DeRPeA",
-    stack: ["Javascript", "Typescript", "Python", "Lua", "MySQL", "PostgreSQL"]
-};
-```
 
 <!-- 
 <p align="center" style="text-align: center; width:100%;">
